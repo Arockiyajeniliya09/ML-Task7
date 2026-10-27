@@ -1,4 +1,4 @@
-Credit Card Fraud Detection Using Random Forest
+
 📌 Project Overview
 
 This project uses Machine Learning to detect fraudulent credit card transactions. A Random Forest Classifier is trained on transaction data to classify transactions as genuine or fraudulent.
